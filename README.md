@@ -10,12 +10,12 @@ Prathamesh Dinkar (psd281@nyu.edu)
 
 **Dataset used:**
 
-Taxi data 2010-2013
+Taxi data 2010-2015  
 http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml
 
-ACS American Community Survey 2010-2013
-http://www1.nyc.gov/assets/planning/download/office/data-maps/nyc-population/acs/econ_2014acs5yr_nyc.xlsx
-http://www1.nyc.gov/assets/planning/download/office/data-maps/nyc-population/acs/hous_2014acs5yr_nyc.xlsx
+ACS American Community Survey 2010-2013  
+http://www1.nyc.gov/assets/planning/download/office/data-maps/nyc-population/acs/econ_2014acs5yr_nyc.xlsx  
+http://www1.nyc.gov/assets/planning/download/office/data-maps/nyc-population/acs/hous_2014acs5yr_nyc.xlsx  
 
 ***
 ###Results of our Analysis  

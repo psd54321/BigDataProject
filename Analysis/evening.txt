@@ -1,0 +1,1157 @@
+2010,Airport	44351
+2010,Allerton-Pelham Gardens	2428
+2010,Annadale-Huguenot-Prince's Bay-Eltingville	379
+2010,Arden Heights	324
+2010,Astoria	249822
+2010,Auburndale	2592
+2010,Baisley Park	6659
+2010,Bath Beach	4393
+2010,Battery Park City-Lower Manhattan	820026
+2010,Bay Ridge	51203
+2010,Bayside-Bayside Hills	6478
+2010,Bedford	66508
+2010,Bedford Park-Fordham North	5447
+2010,Bellerose	1844
+2010,Belmont	3939
+2010,Bensonhurst East	8326
+2010,Bensonhurst West	11292
+2010,Borough Park	7143
+2010,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel	238
+2010,Briarwood-Jamaica Hills	11121
+2010,Brighton Beach	3947
+2010,Bronxdale	3191
+2010,Brooklyn Heights-Cobble Hill	150270
+2010,Brownsville	3464
+2010,Bushwick North	29695
+2010,Bushwick South	66803
+2010,Cambria Heights	1130
+2010,Canarsie	5102
+2010,Carroll Gardens-Columbia Street-Red Hook	148337
+2010,Central Harlem North-Polo Grounds	121332
+2010,Central Harlem South	164879
+2010,Charleston-Richmond Valley-Tottenville	267
+2010,Chinatown	785385
+2010,Claremont-Bathgate	2623
+2010,Clinton	1213342
+2010,Clinton Hill	110995
+2010,Co-op City	2728
+2010,College Point	3394
+2010,Corona	968
+2010,Crotona Park East	2120
+2010,Crown Heights North	69454
+2010,Crown Heights South	17902
+2010,Cypress Hills-City Line	3002
+2010,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill	199646
+2010,Douglas Manor-Douglaston-Little Neck	2641
+2010,Dyker Heights	8994
+2010,East Concourse-Concourse Village	11484
+2010,East Elmhurst	13578
+2010,East Flatbush-Farragut	151
+2010,East Flushing	3060
+2010,East Harlem North	167480
+2010,East Harlem South	256157
+2010,East New York	5910
+2010,East New York (Pennsylvania Ave)	1687
+2010,East Tremont	3182
+2010,East Village	1484248
+2010,East Williamsburg	132669
+2010,Eastchester-Edenwald-Baychester	1635
+2010,Elmhurst	38534
+2010,Elmhurst-Maspeth	23099
+2010,Erasmus	4769
+2010,Far Rockaway-Bayswater	890
+2010,Flatbush	35061
+2010,Flatlands	6995
+2010,Flushing	13572
+2010,Fordham South	2667
+2010,Forest Hills	66732
+2010,Fort Greene	92339
+2010,Fresh Meadows-Utopia	3482
+2010,Ft. Totten-Bay Terrace-Clearview	2691
+2010,Georgetown-Marine Park-Bergen Beach-Mill Basin	4548
+2010,Glen Oaks-Floral Park-New Hyde Park	1604
+2010,Glendale	6988
+2010,Gramercy	854647
+2010,Grasmere-Arrochar-Ft. Wadsworth	1397
+2010,Gravesend	2651
+2010,Great Kills	516
+2010,Greenpoint	164515
+2010,Grymes Hill-Clifton-Fox Hills	690
+2010,Hamilton Heights	96835
+2010,Hammels-Arverne-Edgemere	702
+2010,Highbridge	6161
+2010,Hollis	1205
+2010,Homecrest	6836
+2010,Hudson Yards-Chelsea-Flatiron-Union Square	2545809
+2010,Hunters Point-Sunnyside-West Maspeth	230762
+2010,Hunts Point	4084
+2010,Jackson Heights	78718
+2010,Jamaica	6878
+2010,Jamaica Estates-Holliswood	5762
+2010,Kensington-Ocean Parkway	17508
+2010,Kew Gardens	10718
+2010,Kew Gardens Hills	9114
+2010,Kingsbridge Heights	4431
+2010,Laurelton	1485
+2010,Lenox Hill-Roosevelt Island	1109727
+2010,Lincoln Square	945937
+2010,Lindenwood-Howard Beach	3568
+2010,Longwood	2893
+2010,Lower East Side	434976
+2010,Madison	4974
+2010,Manhattanville	50783
+2010,Marble Hill-Inwood	2365
+2010,Mariner's Harbor-Arlington-Port Ivory-Graniteville	532
+2010,Maspeth	17815
+2010,Melrose South-Mott Haven North	6875
+2010,Middle Village	16324
+2010,Midtown-Midtown South	3276664
+2010,Midwood	8419
+2010,Morningside Heights	331627
+2010,Morrisania-Melrose	3938
+2010,Mott Haven-Port Morris	19707
+2010,Mount Hope	6231
+2010,Murray Hill	6066
+2010,Murray Hill-Kips Bay	1426057
+2010,New Brighton-Silver Lake	660
+2010,New Dorp-Midland Beach	609
+2010,New Springville-Bloomfield-Travis	1203
+2010,North Corona	11749
+2010,North Riverdale-Fieldston-Riverdale	13372
+2010,North Side-South Side	326367
+2010,Norwood	4692
+2010,Oakland Gardens	3014
+2010,Oakwood-Oakwood Beach	391
+2010,Ocean Hill	4100
+2010,Ocean Parkway South	3548
+2010,Old Astoria	66171
+2010,Old Town-Dongan Hills-South Beach	1080
+2010,Ozone Park	3023
+2010,Park Slope-Gowanus	271052
+2010,Parkchester	6142
+2010,Pelham Bay-Country Club-City Island	1
+2010,Pelham Parkway	6609
+2010,Pomonok-Flushing Heights-Hillcrest	7662
+2010,Port Richmond	225
+2010,Prospect Heights	78596
+2010,Prospect Lefferts Gardens-Wingate	27805
+2010,Queens Village	3403
+2010,Queensboro Hill	4610
+2010,Queensbridge-Ravenswood-Long Island City	65112
+2010,Rego Park	18830
+2010,Richmond Hill	8563
+2010,Ridgewood	18387
+2010,Rikers Island	585
+2010,Rosedale	1533
+2010,Rossville-Woodrow	257
+2010,Rugby-Remsen Village	4579
+2010,Schuylerville-Throgs Neck-Edgewater Park	5925
+2010,Seagate-Coney Island	1520
+2010,Sheepshead Bay-Gerritsen Beach-Manhattan Beach	7353
+2010,SoHo-TriBeCa-Civic Center-Little Italy	1537890
+2010,Soundview-Bruckner	4062
+2010,Soundview-Castle Hill-Clason Point-Harding Park	163
+2010,South Jamaica	2419
+2010,South Ozone Park	9936
+2010,Springfield Gardens North	2664
+2010,Springfield Gardens South-Brookville	5704
+2010,Spuyten Duyvil-Kingsbridge	17553
+2010,St. Albans	2548
+2010,Stapleton-Rosebank	1326
+2010,Starrett City	938
+2010,Steinway	112578
+2010,Stuyvesant Heights	28947
+2010,Stuyvesant Town-Cooper Village	172420
+2010,Sunset Park East	12139
+2010,Sunset Park West	35707
+2010,Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill	979
+2010,Turtle Bay-East Midtown	1586402
+2010,University Heights-Morris Heights	6669
+2010,Upper East Side-Carnegie Hill	1141103
+2010,Upper West Side	1352894
+2010,Van Cortlandt Village	7303
+2010,Van Nest-Morris Park-Westchester Square	3770
+2010,Washington Heights North	79280
+2010,Washington Heights South	119153
+2010,West Brighton	2044
+2010,West Concourse	9087
+2010,West Farms-Bronx River	3800
+2010,West New Brighton-New Brighton-St. George	1223
+2010,West Village	2555216
+2010,Westchester-Unionport	4298
+2010,Westerleigh	918
+2010,Whitestone	4752
+2010,Williamsbridge-Olinville	2957
+2010,Williamsburg	11270
+2010,Windsor Terrace	30702
+2010,Woodhaven	8165
+2010,Woodlawn-Wakefield	6670
+2010,Woodside	58487
+2010,Yorkville	1031124
+2010,park-cemetery-etc-Bronx	3026
+2010,park-cemetery-etc-Brooklyn	3805
+2010,park-cemetery-etc-Queens	1285
+2010,park-cemetery-etc-Staten Island	2
+2011,Airport	28348
+2011,Allerton-Pelham Gardens	2526
+2011,Annadale-Huguenot-Prince's Bay-Eltingville	394
+2011,Arden Heights	328
+2011,Astoria	280298
+2011,Auburndale	2996
+2011,Baisley Park	8078
+2011,Bath Beach	4581
+2011,Battery Park City-Lower Manhattan	840062
+2011,Bay Ridge	53428
+2011,Bayside-Bayside Hills	6943
+2011,Bedford	82482
+2011,Bedford Park-Fordham North	5987
+2011,Bellerose	2122
+2011,Belmont	4417
+2011,Bensonhurst East	8569
+2011,Bensonhurst West	11572
+2011,Borough Park	8048
+2011,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel	227
+2011,Briarwood-Jamaica Hills	13303
+2011,Brighton Beach	4035
+2011,Bronxdale	3982
+2011,Brooklyn Heights-Cobble Hill	152441
+2011,Brownsville	3715
+2011,Bushwick North	44994
+2011,Bushwick South	86077
+2011,Cambria Heights	1225
+2011,Canarsie	6010
+2011,Carroll Gardens-Columbia Street-Red Hook	157775
+2011,Central Harlem North-Polo Grounds	130969
+2011,Central Harlem South	185263
+2011,Charleston-Richmond Valley-Tottenville	233
+2011,Chinatown	850201
+2011,Claremont-Bathgate	2754
+2011,Clinton	1324099
+2011,Clinton Hill	127132
+2011,Co-op City	2736
+2011,College Point	3506
+2011,Corona	1155
+2011,Crotona Park East	2267
+2011,Crown Heights North	83144
+2011,Crown Heights South	20534
+2011,Cypress Hills-City Line	3180
+2011,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill	233957
+2011,Douglas Manor-Douglaston-Little Neck	2646
+2011,Dyker Heights	9408
+2011,East Concourse-Concourse Village	11852
+2011,East Elmhurst	14716
+2011,East Flatbush-Farragut	178
+2011,East Flushing	2994
+2011,East Harlem North	183773
+2011,East Harlem South	274157
+2011,East New York	6325
+2011,East New York (Pennsylvania Ave)	1860
+2011,East Tremont	2947
+2011,East Village	1585744
+2011,East Williamsburg	162525
+2011,Eastchester-Edenwald-Baychester	1716
+2011,Elmhurst	41713
+2011,Elmhurst-Maspeth	27094
+2011,Erasmus	4895
+2011,Far Rockaway-Bayswater	999
+2011,Flatbush	40368
+2011,Flatlands	6818
+2011,Flushing	14245
+2011,Fordham South	2657
+2011,Forest Hills	71515
+2011,Fort Greene	101933
+2011,Fresh Meadows-Utopia	3536
+2011,Ft. Totten-Bay Terrace-Clearview	3158
+2011,Georgetown-Marine Park-Bergen Beach-Mill Basin	4952
+2011,Glen Oaks-Floral Park-New Hyde Park	1509
+2011,Glendale	7472
+2011,Gramercy	878936
+2011,Grasmere-Arrochar-Ft. Wadsworth	1178
+2011,Gravesend	2848
+2011,Great Kills	592
+2011,Greenpoint	195886
+2011,Grymes Hill-Clifton-Fox Hills	792
+2011,Hamilton Heights	105701
+2011,Hammels-Arverne-Edgemere	900
+2011,Highbridge	6955
+2011,Hollis	1365
+2011,Homecrest	7795
+2011,Hudson Yards-Chelsea-Flatiron-Union Square	2626417
+2011,Hunters Point-Sunnyside-West Maspeth	246822
+2011,Hunts Point	4147
+2011,Jackson Heights	82817
+2011,Jamaica	7310
+2011,Jamaica Estates-Holliswood	5651
+2011,Kensington-Ocean Parkway	19237
+2011,Kew Gardens	12056
+2011,Kew Gardens Hills	9788
+2011,Kingsbridge Heights	4730
+2011,Laurelton	1497
+2011,Lenox Hill-Roosevelt Island	1132514
+2011,Lincoln Square	948080
+2011,Lindenwood-Howard Beach	3808
+2011,Longwood	3261
+2011,Lower East Side	456599
+2011,Madison	5555
+2011,Manhattanville	55743
+2011,Marble Hill-Inwood	2511
+2011,Mariner's Harbor-Arlington-Port Ivory-Graniteville	494
+2011,Maspeth	19953
+2011,Melrose South-Mott Haven North	7242
+2011,Middle Village	17593
+2011,Midtown-Midtown South	3334722
+2011,Midwood	8480
+2011,Morningside Heights	339630
+2011,Morrisania-Melrose	5265
+2011,Mott Haven-Port Morris	22777
+2011,Mount Hope	6542
+2011,Murray Hill	6485
+2011,Murray Hill-Kips Bay	1480558
+2011,New Brighton-Silver Lake	609
+2011,New Dorp-Midland Beach	659
+2011,New Springville-Bloomfield-Travis	1381
+2011,North Corona	12137
+2011,North Riverdale-Fieldston-Riverdale	14068
+2011,North Side-South Side	413116
+2011,Norwood	4728
+2011,Oakland Gardens	3275
+2011,Oakwood-Oakwood Beach	408
+2011,Ocean Hill	4896
+2011,Ocean Parkway South	3786
+2011,Old Astoria	80776
+2011,Old Town-Dongan Hills-South Beach	1053
+2011,Ozone Park	3420
+2011,Park Slope-Gowanus	291002
+2011,Parkchester	6526
+2011,Pelham Bay-Country Club-City Island	2
+2011,Pelham Parkway	5995
+2011,Pomonok-Flushing Heights-Hillcrest	7841
+2011,Port Richmond	289
+2011,Prospect Heights	85858
+2011,Prospect Lefferts Gardens-Wingate	32500
+2011,Queens Village	3270
+2011,Queensboro Hill	3847
+2011,Queensbridge-Ravenswood-Long Island City	72309
+2011,Rego Park	20557
+2011,Richmond Hill	8765
+2011,Ridgewood	22564
+2011,Rikers Island	410
+2011,Rosedale	1516
+2011,Rossville-Woodrow	269
+2011,Rugby-Remsen Village	5011
+2011,Schuylerville-Throgs Neck-Edgewater Park	6445
+2011,Seagate-Coney Island	1610
+2011,Sheepshead Bay-Gerritsen Beach-Manhattan Beach	7865
+2011,SoHo-TriBeCa-Civic Center-Little Italy	1629108
+2011,Soundview-Bruckner	4687
+2011,Soundview-Castle Hill-Clason Point-Harding Park	151
+2011,South Jamaica	2842
+2011,South Ozone Park	10125
+2011,Springfield Gardens North	2657
+2011,Springfield Gardens South-Brookville	5952
+2011,Spuyten Duyvil-Kingsbridge	19149
+2011,St. Albans	2810
+2011,Stapleton-Rosebank	1040
+2011,Starrett City	910
+2011,Steinway	124463
+2011,Stuyvesant Heights	35793
+2011,Stuyvesant Town-Cooper Village	187186
+2011,Sunset Park East	13244
+2011,Sunset Park West	41461
+2011,Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill	1138
+2011,Turtle Bay-East Midtown	1600998
+2011,University Heights-Morris Heights	6910
+2011,Upper East Side-Carnegie Hill	1116503
+2011,Upper West Side	1362376
+2011,Van Cortlandt Village	7957
+2011,Van Nest-Morris Park-Westchester Square	3780
+2011,Washington Heights North	86805
+2011,Washington Heights South	128276
+2011,West Brighton	2151
+2011,West Concourse	10024
+2011,West Farms-Bronx River	3781
+2011,West New Brighton-New Brighton-St. George	1165
+2011,West Village	2663997
+2011,Westchester-Unionport	5413
+2011,Westerleigh	882
+2011,Whitestone	5044
+2011,Williamsbridge-Olinville	3042
+2011,Williamsburg	11833
+2011,Windsor Terrace	32491
+2011,Woodhaven	8235
+2011,Woodlawn-Wakefield	6888
+2011,Woodside	62527
+2011,Yorkville	1068810
+2011,park-cemetery-etc-Bronx	2958
+2011,park-cemetery-etc-Brooklyn	4284
+2011,park-cemetery-etc-Queens	1594
+2012,Airport	27935
+2012,Allerton-Pelham Gardens	2428
+2012,Annadale-Huguenot-Prince's Bay-Eltingville	358
+2012,Arden Heights	313
+2012,Astoria	292537
+2012,Auburndale	2834
+2012,Baisley Park	7656
+2012,Bath Beach	4400
+2012,Battery Park City-Lower Manhattan	871375
+2012,Bay Ridge	55021
+2012,Bayside-Bayside Hills	7131
+2012,Bedford	101031
+2012,Bedford Park-Fordham North	6621
+2012,Bellerose	2059
+2012,Belmont	4464
+2012,Bensonhurst East	7810
+2012,Bensonhurst West	11464
+2012,Borough Park	8191
+2012,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel	255
+2012,Briarwood-Jamaica Hills	12370
+2012,Brighton Beach	4301
+2012,Bronxdale	3200
+2012,Brooklyn Heights-Cobble Hill	147567
+2012,Brownsville	3960
+2012,Bushwick North	59521
+2012,Bushwick South	109195
+2012,Cambria Heights	1171
+2012,Canarsie	5348
+2012,Carroll Gardens-Columbia Street-Red Hook	155105
+2012,Central Harlem North-Polo Grounds	146571
+2012,Central Harlem South	200420
+2012,Charleston-Richmond Valley-Tottenville	237
+2012,Chinatown	868139
+2012,Claremont-Bathgate	3063
+2012,Clinton	1362941
+2012,Clinton Hill	138773
+2012,Co-op City	2820
+2012,College Point	3442
+2012,Corona	1071
+2012,Crotona Park East	2623
+2012,Crown Heights North	101728
+2012,Crown Heights South	25775
+2012,Cypress Hills-City Line	3588
+2012,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill	257501
+2012,Douglas Manor-Douglaston-Little Neck	2595
+2012,Dyker Heights	9874
+2012,East Concourse-Concourse Village	13178
+2012,East Elmhurst	14671
+2012,East Flatbush-Farragut	162
+2012,East Flushing	3290
+2012,East Harlem North	202694
+2012,East Harlem South	284495
+2012,East New York	6384
+2012,East New York (Pennsylvania Ave)	2217
+2012,East Tremont	3355
+2012,East Village	1577222
+2012,East Williamsburg	175922
+2012,Eastchester-Edenwald-Baychester	1747
+2012,Elmhurst	43210
+2012,Elmhurst-Maspeth	28611
+2012,Erasmus	5621
+2012,Far Rockaway-Bayswater	984
+2012,Flatbush	44911
+2012,Flatlands	6670
+2012,Flushing	13786
+2012,Fordham South	2983
+2012,Forest Hills	70205
+2012,Fort Greene	108182
+2012,Fresh Meadows-Utopia	3487
+2012,Ft. Totten-Bay Terrace-Clearview	2763
+2012,Georgetown-Marine Park-Bergen Beach-Mill Basin	4693
+2012,Glen Oaks-Floral Park-New Hyde Park	1584
+2012,Glendale	7257
+2012,Gramercy	906782
+2012,Grasmere-Arrochar-Ft. Wadsworth	1323
+2012,Gravesend	2534
+2012,Great Kills	574
+2012,Greenpoint	205477
+2012,Grymes Hill-Clifton-Fox Hills	746
+2012,Hamilton Heights	115035
+2012,Hammels-Arverne-Edgemere	775
+2012,Highbridge	7637
+2012,Hollis	1146
+2012,Homecrest	6900
+2012,Hudson Yards-Chelsea-Flatiron-Union Square	2666467
+2012,Hunters Point-Sunnyside-West Maspeth	263395
+2012,Hunts Point	4237
+2012,Jackson Heights	85740
+2012,Jamaica	7306
+2012,Jamaica Estates-Holliswood	5411
+2012,Kensington-Ocean Parkway	19147
+2012,Kew Gardens	12134
+2012,Kew Gardens Hills	9024
+2012,Kingsbridge Heights	5283
+2012,Laurelton	1429
+2012,Lenox Hill-Roosevelt Island	1141620
+2012,Lincoln Square	921833
+2012,Lindenwood-Howard Beach	3393
+2012,Longwood	3415
+2012,Lower East Side	437628
+2012,Madison	5648
+2012,Manhattanville	62915
+2012,Marble Hill-Inwood	2320
+2012,Mariner's Harbor-Arlington-Port Ivory-Graniteville	488
+2012,Maspeth	20017
+2012,Melrose South-Mott Haven North	8329
+2012,Middle Village	18261
+2012,Midtown-Midtown South	3406514
+2012,Midwood	8668
+2012,Morningside Heights	331290
+2012,Morrisania-Melrose	5361
+2012,Mott Haven-Port Morris	25277
+2012,Mount Hope	7708
+2012,Murray Hill	6463
+2012,Murray Hill-Kips Bay	1497399
+2012,New Brighton-Silver Lake	660
+2012,New Dorp-Midland Beach	658
+2012,New Springville-Bloomfield-Travis	1310
+2012,North Corona	13090
+2012,North Riverdale-Fieldston-Riverdale	14314
+2012,North Side-South Side	473492
+2012,Norwood	4682
+2012,Oakland Gardens	3336
+2012,Oakwood-Oakwood Beach	385
+2012,Ocean Hill	6326
+2012,Ocean Parkway South	3921
+2012,Old Astoria	86655
+2012,Old Town-Dongan Hills-South Beach	989
+2012,Ozone Park	3434
+2012,Park Slope-Gowanus	296191
+2012,Parkchester	6457
+2012,Pelham Bay-Country Club-City Island	2
+2012,Pelham Parkway	6190
+2012,Pomonok-Flushing Heights-Hillcrest	7696
+2012,Port Richmond	289
+2012,Prospect Heights	86753
+2012,Prospect Lefferts Gardens-Wingate	38307
+2012,Queens Village	3400
+2012,Queensboro Hill	3926
+2012,Queensbridge-Ravenswood-Long Island City	65475
+2012,Rego Park	22539
+2012,Richmond Hill	8367
+2012,Ridgewood	26834
+2012,Rikers Island	224
+2012,Rosedale	1657
+2012,Rossville-Woodrow	309
+2012,Rugby-Remsen Village	5440
+2012,Schuylerville-Throgs Neck-Edgewater Park	6629
+2012,Seagate-Coney Island	1665
+2012,Sheepshead Bay-Gerritsen Beach-Manhattan Beach	7680
+2012,SoHo-TriBeCa-Civic Center-Little Italy	1586391
+2012,Soundview-Bruckner	4899
+2012,Soundview-Castle Hill-Clason Point-Harding Park	163
+2012,South Jamaica	2738
+2012,South Ozone Park	10391
+2012,Springfield Gardens North	2759
+2012,Springfield Gardens South-Brookville	6990
+2012,Spuyten Duyvil-Kingsbridge	19454
+2012,St. Albans	2613
+2012,Stapleton-Rosebank	990
+2012,Starrett City	982
+2012,Steinway	132400
+2012,Stuyvesant Heights	47890
+2012,Stuyvesant Town-Cooper Village	185647
+2012,Sunset Park East	13434
+2012,Sunset Park West	43296
+2012,Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill	990
+2012,Turtle Bay-East Midtown	1613788
+2012,University Heights-Morris Heights	7905
+2012,Upper East Side-Carnegie Hill	1162065
+2012,Upper West Side	1350061
+2012,Van Cortlandt Village	8552
+2012,Van Nest-Morris Park-Westchester Square	4165
+2012,Washington Heights North	90305
+2012,Washington Heights South	143383
+2012,West Brighton	2332
+2012,West Concourse	11419
+2012,West Farms-Bronx River	4535
+2012,West New Brighton-New Brighton-St. George	1011
+2012,West Village	2696448
+2012,Westchester-Unionport	6544
+2012,Westerleigh	965
+2012,Whitestone	4900
+2012,Williamsbridge-Olinville	3256
+2012,Williamsburg	15089
+2012,Windsor Terrace	34183
+2012,Woodhaven	8680
+2012,Woodlawn-Wakefield	6807
+2012,Woodside	64597
+2012,Yorkville	1051657
+2012,park-cemetery-etc-Bronx	3436
+2012,park-cemetery-etc-Brooklyn	4577
+2012,park-cemetery-etc-Queens	1792
+2013,Airport	21181
+2013,Allerton-Pelham Gardens	2415
+2013,Annadale-Huguenot-Prince's Bay-Eltingville	360
+2013,Arden Heights	335
+2013,Astoria	296585
+2013,Auburndale	2666
+2013,Baisley Park	7550
+2013,Bath Beach	3927
+2013,Battery Park City-Lower Manhattan	850980
+2013,Bay Ridge	53659
+2013,Bayside-Bayside Hills	6380
+2013,Bedford	119457
+2013,Bedford Park-Fordham North	6307
+2013,Bellerose	1869
+2013,Belmont	4064
+2013,Bensonhurst East	7113
+2013,Bensonhurst West	10671
+2013,Borough Park	6828
+2013,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel	198
+2013,Briarwood-Jamaica Hills	11418
+2013,Brighton Beach	3720
+2013,Bronxdale	2973
+2013,Brooklyn Heights-Cobble Hill	144243
+2013,Brownsville	4120
+2013,Bushwick North	80036
+2013,Bushwick South	136107
+2013,Cambria Heights	979
+2013,Canarsie	5029
+2013,Carroll Gardens-Columbia Street-Red Hook	154950
+2013,Central Harlem North-Polo Grounds	150391
+2013,Central Harlem South	201025
+2013,Charleston-Richmond Valley-Tottenville	245
+2013,Chinatown	876681
+2013,Claremont-Bathgate	2600
+2013,Clinton	1347408
+2013,Clinton Hill	149287
+2013,Co-op City	2663
+2013,College Point	3129
+2013,Corona	992
+2013,Crotona Park East	2248
+2013,Crown Heights North	122739
+2013,Crown Heights South	27867
+2013,Cypress Hills-City Line	3331
+2013,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill	247195
+2013,Douglas Manor-Douglaston-Little Neck	2661
+2013,Dyker Heights	9314
+2013,East Concourse-Concourse Village	12116
+2013,East Elmhurst	13191
+2013,East Flatbush-Farragut	155
+2013,East Flushing	2670
+2013,East Harlem North	195705
+2013,East Harlem South	278570
+2013,East New York	6633
+2013,East New York (Pennsylvania Ave)	2085
+2013,East Tremont	3025
+2013,East Village	1525470
+2013,East Williamsburg	200213
+2013,Eastchester-Edenwald-Baychester	1620
+2013,Elmhurst	40966
+2013,Elmhurst-Maspeth	26828
+2013,Erasmus	5967
+2013,Far Rockaway-Bayswater	842
+2013,Flatbush	47451
+2013,Flatlands	6680
+2013,Flushing	13058
+2013,Fordham South	2836
+2013,Forest Hills	66266
+2013,Fort Greene	108423
+2013,Fresh Meadows-Utopia	3335
+2013,Ft. Totten-Bay Terrace-Clearview	2639
+2013,Georgetown-Marine Park-Bergen Beach-Mill Basin	4794
+2013,Glen Oaks-Floral Park-New Hyde Park	1456
+2013,Glendale	7136
+2013,Gramercy	866691
+2013,Grasmere-Arrochar-Ft. Wadsworth	1112
+2013,Gravesend	2308
+2013,Great Kills	488
+2013,Greenpoint	229152
+2013,Grymes Hill-Clifton-Fox Hills	563
+2013,Hamilton Heights	115579
+2013,Hammels-Arverne-Edgemere	748
+2013,Highbridge	6871
+2013,Hollis	1123
+2013,Homecrest	5894
+2013,Hudson Yards-Chelsea-Flatiron-Union Square	2584950
+2013,Hunters Point-Sunnyside-West Maspeth	264789
+2013,Hunts Point	3667
+2013,Jackson Heights	80376
+2013,Jamaica	6772
+2013,Jamaica Estates-Holliswood	5324
+2013,Kensington-Ocean Parkway	18059
+2013,Kew Gardens	10388
+2013,Kew Gardens Hills	8038
+2013,Kingsbridge Heights	4806
+2013,Laurelton	1349
+2013,Lenox Hill-Roosevelt Island	1087322
+2013,Lincoln Square	873432
+2013,Lindenwood-Howard Beach	3423
+2013,Longwood	3468
+2013,Lower East Side	437887
+2013,Madison	5336
+2013,Manhattanville	59278
+2013,Marble Hill-Inwood	2012
+2013,Mariner's Harbor-Arlington-Port Ivory-Graniteville	380
+2013,Maspeth	19430
+2013,Melrose South-Mott Haven North	7875
+2013,Middle Village	17719
+2013,Midtown-Midtown South	3235163
+2013,Midwood	7975
+2013,Morningside Heights	312594
+2013,Morrisania-Melrose	4512
+2013,Mott Haven-Port Morris	23922
+2013,Mount Hope	6757
+2013,Murray Hill	5509
+2013,Murray Hill-Kips Bay	1455621
+2013,New Brighton-Silver Lake	694
+2013,New Dorp-Midland Beach	569
+2013,New Springville-Bloomfield-Travis	1085
+2013,North Corona	11888
+2013,North Riverdale-Fieldston-Riverdale	13029
+2013,North Side-South Side	537105
+2013,Norwood	4442
+2013,Oakland Gardens	2813
+2013,Oakwood-Oakwood Beach	363
+2013,Ocean Hill	7236
+2013,Ocean Parkway South	3339
+2013,Old Astoria	87025
+2013,Old Town-Dongan Hills-South Beach	840
+2013,Ozone Park	3377
+2013,Park Slope-Gowanus	293865
+2013,Parkchester	5679
+2013,Pelham Bay-Country Club-City Island	1
+2013,Pelham Parkway	6003
+2013,Pomonok-Flushing Heights-Hillcrest	6737
+2013,Port Richmond	232
+2013,Prospect Heights	87666
+2013,Prospect Lefferts Gardens-Wingate	41446
+2013,Queens Village	2909
+2013,Queensboro Hill	3516
+2013,Queensbridge-Ravenswood-Long Island City	60315
+2013,Rego Park	20680
+2013,Richmond Hill	7467
+2013,Ridgewood	31460
+2013,Rikers Island	44
+2013,Rosedale	1383
+2013,Rossville-Woodrow	253
+2013,Rugby-Remsen Village	5232
+2013,Schuylerville-Throgs Neck-Edgewater Park	5892
+2013,Seagate-Coney Island	1360
+2013,Sheepshead Bay-Gerritsen Beach-Manhattan Beach	7284
+2013,SoHo-TriBeCa-Civic Center-Little Italy	1514872
+2013,Soundview-Bruckner	4148
+2013,Soundview-Castle Hill-Clason Point-Harding Park	134
+2013,South Jamaica	2463
+2013,South Ozone Park	9804
+2013,Springfield Gardens North	3450
+2013,Springfield Gardens South-Brookville	5293
+2013,Spuyten Duyvil-Kingsbridge	18071
+2013,St. Albans	2314
+2013,Stapleton-Rosebank	845
+2013,Starrett City	919
+2013,Steinway	129168
+2013,Stuyvesant Heights	62340
+2013,Stuyvesant Town-Cooper Village	189547
+2013,Sunset Park East	13718
+2013,Sunset Park West	44460
+2013,Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill	870
+2013,Turtle Bay-East Midtown	1551847
+2013,University Heights-Morris Heights	6863
+2013,Upper East Side-Carnegie Hill	1067511
+2013,Upper West Side	1275001
+2013,Van Cortlandt Village	7854
+2013,Van Nest-Morris Park-Westchester Square	3718
+2013,Washington Heights North	88673
+2013,Washington Heights South	137450
+2013,West Brighton	1847
+2013,West Concourse	10740
+2013,West Farms-Bronx River	4022
+2013,West New Brighton-New Brighton-St. George	840
+2013,West Village	2562788
+2013,Westchester-Unionport	4038
+2013,Westerleigh	849
+2013,Whitestone	4471
+2013,Williamsbridge-Olinville	3284
+2013,Williamsburg	15916
+2013,Windsor Terrace	32946
+2013,Woodhaven	7887
+2013,Woodlawn-Wakefield	6417
+2013,Woodside	61579
+2013,Yorkville	1016187
+2013,park-cemetery-etc-Bronx	2650
+2013,park-cemetery-etc-Brooklyn	4583
+2013,park-cemetery-etc-Queens	1528
+2014,Airport	20001
+2014,Allerton-Pelham Gardens	2546
+2014,Annadale-Huguenot-Prince's Bay-Eltingville	369
+2014,Arden Heights	261
+2014,Astoria	280506
+2014,Auburndale	2615
+2014,Baisley Park	8495
+2014,Bath Beach	4255
+2014,Battery Park City-Lower Manhattan	820746
+2014,Bay Ridge	52288
+2014,Bayside-Bayside Hills	6164
+2014,Bedford	128647
+2014,Bedford Park-Fordham North	6649
+2014,Bellerose	2055
+2014,Belmont	4244
+2014,Bensonhurst East	6970
+2014,Bensonhurst West	11315
+2014,Borough Park	6480
+2014,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel	251
+2014,Briarwood-Jamaica Hills	11695
+2014,Brighton Beach	3786
+2014,Bronxdale	3391
+2014,Brooklyn Heights-Cobble Hill	130036
+2014,Brownsville	5020
+2014,Bushwick North	77978
+2014,Bushwick South	132375
+2014,Cambria Heights	997
+2014,Canarsie	5541
+2014,Carroll Gardens-Columbia Street-Red Hook	137033
+2014,Central Harlem North-Polo Grounds	162356
+2014,Central Harlem South	204755
+2014,Charleston-Richmond Valley-Tottenville	266
+2014,Chinatown	810871
+2014,Claremont-Bathgate	3038
+2014,Clinton	1312668
+2014,Clinton Hill	139929
+2014,Co-op City	2717
+2014,College Point	3197
+2014,Corona	1224
+2014,Crotona Park East	2414
+2014,Crown Heights North	134076
+2014,Crown Heights South	30480
+2014,Cypress Hills-City Line	3852
+2014,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill	224410
+2014,Douglas Manor-Douglaston-Little Neck	2541
+2014,Dyker Heights	8958
+2014,East Concourse-Concourse Village	13848
+2014,East Elmhurst	12375
+2014,East Flatbush-Farragut	167
+2014,East Flushing	2544
+2014,East Harlem North	197940
+2014,East Harlem South	286383
+2014,East New York	7494
+2014,East New York (Pennsylvania Ave)	2490
+2014,East Tremont	3379
+2014,East Village	1419369
+2014,East Williamsburg	174995
+2014,Eastchester-Edenwald-Baychester	1730
+2014,Elmhurst	42424
+2014,Elmhurst-Maspeth	23634
+2014,Erasmus	7160
+2014,Far Rockaway-Bayswater	913
+2014,Flatbush	52035
+2014,Flatlands	7234
+2014,Flushing	14920
+2014,Fordham South	2945
+2014,Forest Hills	64733
+2014,Fort Greene	100716
+2014,Fresh Meadows-Utopia	3155
+2014,Ft. Totten-Bay Terrace-Clearview	2753
+2014,Georgetown-Marine Park-Bergen Beach-Mill Basin	4779
+2014,Glen Oaks-Floral Park-New Hyde Park	1603
+2014,Glendale	7333
+2014,Gramercy	783174
+2014,Grasmere-Arrochar-Ft. Wadsworth	1100
+2014,Gravesend	2482
+2014,Great Kills	509
+2014,Greenpoint	208708
+2014,Grymes Hill-Clifton-Fox Hills	572
+2014,Hamilton Heights	122675
+2014,Hammels-Arverne-Edgemere	809
+2014,Highbridge	7822
+2014,Hollis	1198
+2014,Homecrest	6132
+2014,Hudson Yards-Chelsea-Flatiron-Union Square	2407973
+2014,Hunters Point-Sunnyside-West Maspeth	269093
+2014,Hunts Point	3660
+2014,Jackson Heights	78392
+2014,Jamaica	7355
+2014,Jamaica Estates-Holliswood	5349
+2014,Kensington-Ocean Parkway	19083
+2014,Kew Gardens	10703
+2014,Kew Gardens Hills	8031
+2014,Kingsbridge Heights	5152
+2014,Laurelton	1386
+2014,Lenox Hill-Roosevelt Island	1036403
+2014,Lincoln Square	815562
+2014,Lindenwood-Howard Beach	3419
+2014,Longwood	4088
+2014,Lower East Side	431633
+2014,Madison	5512
+2014,Manhattanville	62135
+2014,Marble Hill-Inwood	2148
+2014,Mariner's Harbor-Arlington-Port Ivory-Graniteville	366
+2014,Maspeth	19011
+2014,Melrose South-Mott Haven North	9481
+2014,Middle Village	16850
+2014,Midtown-Midtown South	3114104
+2014,Midwood	8250
+2014,Morningside Heights	303486
+2014,Morrisania-Melrose	5392
+2014,Mott Haven-Port Morris	27174
+2014,Mount Hope	7311
+2014,Murray Hill	5642
+2014,Murray Hill-Kips Bay	1380538
+2014,New Brighton-Silver Lake	662
+2014,New Dorp-Midland Beach	547
+2014,New Springville-Bloomfield-Travis	1062
+2014,North Corona	13040
+2014,North Riverdale-Fieldston-Riverdale	12814
+2014,North Side-South Side	501886
+2014,Norwood	4912
+2014,Oakland Gardens	2964
+2014,Oakwood-Oakwood Beach	352
+2014,Ocean Hill	9623
+2014,Ocean Parkway South	3304
+2014,Old Astoria	83382
+2014,Old Town-Dongan Hills-South Beach	878
+2014,Ozone Park	3357
+2014,Park Slope-Gowanus	259149
+2014,Parkchester	6025
+2014,Pelham Parkway	6245
+2014,Pomonok-Flushing Heights-Hillcrest	6365
+2014,Port Richmond	209
+2014,Prospect Heights	78946
+2014,Prospect Lefferts Gardens-Wingate	45389
+2014,Queens Village	3149
+2014,Queensboro Hill	3141
+2014,Queensbridge-Ravenswood-Long Island City	60819
+2014,Rego Park	20106
+2014,Richmond Hill	7975
+2014,Ridgewood	32650
+2014,Rikers Island	7
+2014,Rosedale	2282
+2014,Rossville-Woodrow	252
+2014,Rugby-Remsen Village	6395
+2014,Schuylerville-Throgs Neck-Edgewater Park	6166
+2014,Seagate-Coney Island	1335
+2014,Sheepshead Bay-Gerritsen Beach-Manhattan Beach	7563
+2014,SoHo-TriBeCa-Civic Center-Little Italy	1294326
+2014,Soundview-Bruckner	4788
+2014,Soundview-Castle Hill-Clason Point-Harding Park	91
+2014,South Jamaica	2661
+2014,South Ozone Park	10908
+2014,Springfield Gardens North	3736
+2014,Springfield Gardens South-Brookville	6061
+2014,Spuyten Duyvil-Kingsbridge	18893
+2014,St. Albans	2600
+2014,Stapleton-Rosebank	904
+2014,Starrett City	1033
+2014,Steinway	117752
+2014,Stuyvesant Heights	74002
+2014,Stuyvesant Town-Cooper Village	189878
+2014,Sunset Park East	13724
+2014,Sunset Park West	42470
+2014,Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill	795
+2014,Turtle Bay-East Midtown	1473143
+2014,University Heights-Morris Heights	7851
+2014,Upper East Side-Carnegie Hill	992865
+2014,Upper West Side	1206322
+2014,Van Cortlandt Village	8365
+2014,Van Nest-Morris Park-Westchester Square	3972
+2014,Washington Heights North	92128
+2014,Washington Heights South	139624
+2014,West Brighton	1783
+2014,West Concourse	11480
+2014,West Farms-Bronx River	4253
+2014,West New Brighton-New Brighton-St. George	835
+2014,West Village	2295072
+2014,Westchester-Unionport	3828
+2014,Westerleigh	818
+2014,Whitestone	4485
+2014,Williamsbridge-Olinville	3332
+2014,Williamsburg	14444
+2014,Windsor Terrace	31658
+2014,Woodhaven	8225
+2014,Woodlawn-Wakefield	6779
+2014,Woodside	59742
+2014,Yorkville	977154
+2014,park-cemetery-etc-Bronx	2463
+2014,park-cemetery-etc-Brooklyn	3824
+2014,park-cemetery-etc-Queens	1280
+2015,Airport	18432
+2015,Allerton-Pelham Gardens	2532
+2015,Annadale-Huguenot-Prince's Bay-Eltingville	384
+2015,Arden Heights	298
+2015,Astoria	253004
+2015,Auburndale	2186
+2015,Baisley Park	9619
+2015,Bath Beach	3748
+2015,Battery Park City-Lower Manhattan	717361
+2015,Bay Ridge	45981
+2015,Bayside-Bayside Hills	5585
+2015,Bedford	110071
+2015,Bedford Park-Fordham North	6619
+2015,Bellerose	1811
+2015,Belmont	3703
+2015,Bensonhurst East	6368
+2015,Bensonhurst West	10179
+2015,Borough Park	6179
+2015,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel	193
+2015,Briarwood-Jamaica Hills	10687
+2015,Brighton Beach	3394
+2015,Bronxdale	3686
+2015,Brooklyn Heights-Cobble Hill	109172
+2015,Brownsville	5607
+2015,Bushwick North	75863
+2015,Bushwick South	117314
+2015,Cambria Heights	1192
+2015,Canarsie	6178
+2015,Carroll Gardens-Columbia Street-Red Hook	110553
+2015,Central Harlem North-Polo Grounds	156705
+2015,Central Harlem South	196283
+2015,Charleston-Richmond Valley-Tottenville	182
+2015,Chinatown	656755
+2015,Claremont-Bathgate	3350
+2015,Clinton	1151549
+2015,Clinton Hill	112517
+2015,Co-op City	2812
+2015,College Point	2966
+2015,Corona	1247
+2015,Crotona Park East	2456
+2015,Crown Heights North	120005
+2015,Crown Heights South	27091
+2015,Cypress Hills-City Line	3982
+2015,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill	186289
+2015,Douglas Manor-Douglaston-Little Neck	2360
+2015,Dyker Heights	8138
+2015,East Concourse-Concourse Village	15030
+2015,East Elmhurst	10809
+2015,East Flatbush-Farragut	203
+2015,East Flushing	2233
+2015,East Harlem North	196002
+2015,East Harlem South	271754
+2015,East New York	8050
+2015,East New York (Pennsylvania Ave)	2828
+2015,East Tremont	3736
+2015,East Village	1204280
+2015,East Williamsburg	143681
+2015,Eastchester-Edenwald-Baychester	1701
+2015,Elmhurst	40694
+2015,Elmhurst-Maspeth	21357
+2015,Erasmus	7706
+2015,Far Rockaway-Bayswater	942
+2015,Flatbush	46266
+2015,Flatlands	7010
+2015,Flushing	12687
+2015,Fordham South	2917
+2015,Forest Hills	56208
+2015,Fort Greene	81773
+2015,Fresh Meadows-Utopia	3103
+2015,Ft. Totten-Bay Terrace-Clearview	2683
+2015,Georgetown-Marine Park-Bergen Beach-Mill Basin	4374
+2015,Glen Oaks-Floral Park-New Hyde Park	1479
+2015,Glendale	6951
+2015,Gramercy	675776
+2015,Grasmere-Arrochar-Ft. Wadsworth	960
+2015,Gravesend	2321
+2015,Great Kills	461
+2015,Greenpoint	168304
+2015,Grymes Hill-Clifton-Fox Hills	526
+2015,Hamilton Heights	118746
+2015,Hammels-Arverne-Edgemere	996
+2015,Highbridge	8097
+2015,Hollis	1155
+2015,Homecrest	5118
+2015,Hudson Yards-Chelsea-Flatiron-Union Square	2025063
+2015,Hunters Point-Sunnyside-West Maspeth	239306
+2015,Hunts Point	3925
+2015,Jackson Heights	75437
+2015,Jamaica	7561
+2015,Jamaica Estates-Holliswood	4658
+2015,Kensington-Ocean Parkway	16443
+2015,Kew Gardens	9411
+2015,Kew Gardens Hills	6962
+2015,Kingsbridge Heights	5202
+2015,Laurelton	1484
+2015,Lenox Hill-Roosevelt Island	927380
+2015,Lincoln Square	712339
+2015,Lindenwood-Howard Beach	3219
+2015,Longwood	4418
+2015,Lower East Side	383380
+2015,Madison	4832
+2015,Manhattanville	57559
+2015,Marble Hill-Inwood	2029
+2015,Mariner's Harbor-Arlington-Port Ivory-Graniteville	396
+2015,Maspeth	17620
+2015,Melrose South-Mott Haven North	10552
+2015,Middle Village	15124
+2015,Midtown-Midtown South	2755315
+2015,Midwood	7450
+2015,Morningside Heights	271637
+2015,Morrisania-Melrose	5827
+2015,Mott Haven-Port Morris	28179
+2015,Mount Hope	7952
+2015,Murray Hill	5319
+2015,Murray Hill-Kips Bay	1216485
+2015,New Brighton-Silver Lake	625
+2015,New Dorp-Midland Beach	546
+2015,New Springville-Bloomfield-Travis	1001
+2015,North Corona	12940
+2015,North Riverdale-Fieldston-Riverdale	11264
+2015,North Side-South Side	396158
+2015,Norwood	4740
+2015,Oakland Gardens	2589
+2015,Oakwood-Oakwood Beach	362
+2015,Ocean Hill	10205
+2015,Ocean Parkway South	2844
+2015,Old Astoria	74133
+2015,Old Town-Dongan Hills-South Beach	742
+2015,Ozone Park	3065
+2015,Park Slope-Gowanus	203197
+2015,Parkchester	6241
+2015,Pelham Parkway	5954
+2015,Pomonok-Flushing Heights-Hillcrest	5788
+2015,Port Richmond	202
+2015,Prospect Heights	62619
+2015,Prospect Lefferts Gardens-Wingate	41228
+2015,Queens Village	3080
+2015,Queensboro Hill	2569
+2015,Queensbridge-Ravenswood-Long Island City	57519
+2015,Rego Park	17332
+2015,Richmond Hill	7565
+2015,Ridgewood	34250
+2015,Rikers Island	22
+2015,Rosedale	2096
+2015,Rossville-Woodrow	247
+2015,Rugby-Remsen Village	6410
+2015,Schuylerville-Throgs Neck-Edgewater Park	5818
+2015,Seagate-Coney Island	1463
+2015,Sheepshead Bay-Gerritsen Beach-Manhattan Beach	6690
+2015,SoHo-TriBeCa-Civic Center-Little Italy	1026413
+2015,Soundview-Bruckner	4952
+2015,Soundview-Castle Hill-Clason Point-Harding Park	86
+2015,South Jamaica	2648
+2015,South Ozone Park	10631
+2015,Springfield Gardens North	3507
+2015,Springfield Gardens South-Brookville	5929
+2015,Spuyten Duyvil-Kingsbridge	17318
+2015,St. Albans	2857
+2015,Stapleton-Rosebank	807
+2015,Starrett City	1083
+2015,Steinway	106116
+2015,Stuyvesant Heights	69612
+2015,Stuyvesant Town-Cooper Village	170256
+2015,Sunset Park East	12472
+2015,Sunset Park West	36321
+2015,Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill	760
+2015,Turtle Bay-East Midtown	1284362
+2015,University Heights-Morris Heights	8118
+2015,Upper East Side-Carnegie Hill	881965
+2015,Upper West Side	1087912
+2015,Van Cortlandt Village	8124
+2015,Van Nest-Morris Park-Westchester Square	3909
+2015,Washington Heights North	86110
+2015,Washington Heights South	130078
+2015,West Brighton	1671
+2015,West Concourse	12005
+2015,West Farms-Bronx River	4819
+2015,West New Brighton-New Brighton-St. George	845
+2015,West Village	1858457
+2015,Westchester-Unionport	3729
+2015,Westerleigh	684
+2015,Whitestone	3951
+2015,Williamsbridge-Olinville	3426
+2015,Williamsburg	11537
+2015,Windsor Terrace	26504
+2015,Woodhaven	8145
+2015,Woodlawn-Wakefield	6427
+2015,Woodside	54530
+2015,Yorkville	875510
+2015,park-cemetery-etc-Bronx	2167
+2015,park-cemetery-etc-Brooklyn	2910
+2015,park-cemetery-etc-Queens	1051

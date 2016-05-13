@@ -24,12 +24,12 @@ http://www1.nyc.gov/assets/planning/download/office/data-maps/nyc-population/acs
 
 [![IMAGE ALT High Change Airport](http://res.cloudinary.com/pdinkar/image/upload/v1463179512/High_Change_in_Drop-offs_from_Airports_jhaxak.png)](https://sss713.cartodb.com/viz/6e0efb3a-18a7-11e6-bd06-0ea31932ec1d/public_map)
 
-
+<br/>  
 **High Change in Evening Drop-offs:**
 
 [![IMAGE ALT High Change Evening Dropoffs](http://res.cloudinary.com/pdinkar/image/upload/v1463179513/Change_in_Evening_Drop-offs_schncl.png)](https://sss713.cartodb.com/viz/7dae9e12-189b-11e6-94fc-0ea31932ec1d/public_map)
 
-
+<br/>    
 **Gentrified Neighborhoods:**
 
 [![IMAGE ALT High Change Airport](http://res.cloudinary.com/pdinkar/image/upload/v1463179511/Conclusion_ne0s2o.png)](https://sss713.cartodb.com/viz/32b28b56-1951-11e6-bc00-0e31c9be1b51/public_map)

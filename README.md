@@ -12,3 +12,6 @@ ACS American Community Survey 2010-2013
 http://www1.nyc.gov/assets/planning/download/office/data-maps/nyc-population/acs/econ_2014acs5yr_nyc.xlsx
 http://www1.nyc.gov/assets/planning/download/office/data-maps/nyc-population/acs/hous_2014acs5yr_nyc.xlsx
 
+***
+##Visualization
+
